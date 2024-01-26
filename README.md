@@ -1,4 +1,4 @@
-![Uploading Screenshot 2023-12-07 at 2.52.49 PM.png…]()
+<img width="1440" alt="Screenshot 2023-12-07 at 2 52 49 PM" src="https://github.com/2manas1/Flash-chat-App/assets/95990830/585e26f7-dfd2-4849-8288-9761643b8ca1">
 
 FlashChat App 
 
