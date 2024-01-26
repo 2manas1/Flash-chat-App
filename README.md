@@ -12,3 +12,7 @@ Collaborated with Cocoapod's extensions to streamline development and utilize ad
 Solely responsible for iOS application development, showcasing proficiency in Swift and UIKit.
 The app is dedicated to facilitating real-time communication through a secure and user-friendly platform.
 Successfully delivered a functional and scalable iOS application with a focus on chat functionality and user security.
+
+
+![Uploading Screenshot 2023-12-07 at 2.52.49 PM.png…]()
+
